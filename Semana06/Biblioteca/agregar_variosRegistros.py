@@ -42,7 +42,7 @@ consulta_autor = """
                 """    
                 
 consulta_libro = """
-                    INSERT INTO LIBRO (TITULO, CANTIDAD, ANIO, PRECIO, ESTADO, IDPAIS, IDEDITORIAL, IDAUTOR ) 
+                    INSERT INTO LIBRO (TITULO, CANTIDAD, ANIO, PRECIO, ESTADO, IDPAIS, IDEDITORIAL, IDAUTOR) 
                     VALUES (?,?, ?, ?, ?, ?, ?, ?)
                 """          
                 

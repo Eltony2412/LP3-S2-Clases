@@ -5,3 +5,11 @@ Created on Wed Oct 26 10:09:06 2022
 @author: user
 """
 
+Universitarios peruanos clasifican a reto de la NASA para diseñar un rover
+
+Estudiantes de la Universidad Nacional de Ingeniería (UNI) y la Universidad de 
+Piura (UDEP) participarán del Human Exploration Rover Challenge (HERC) 
+de la NASA.
+
+Esta prueba convoca a estudiantes de ingeniería de todo el mundo para construir 
+vehículos que puedan ser utilizados en la exploración de la Luna o Marte.
