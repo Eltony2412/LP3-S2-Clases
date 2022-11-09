@@ -50,6 +50,4 @@ cursor.execute(tabla_autor)
 cursor.execute(tabla_pais)
 cursor.execute(tabla_editorial)
 cursor.execute(tabla_libro)
-
-
 conexion.close()
