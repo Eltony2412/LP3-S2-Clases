@@ -19,7 +19,6 @@ def listar_base():
         print (objeto)
     
     conexion.commit()
-    return objeto
     
 def agregar_base(nombre, cantidad, estado):
     lista_objeto = [(nombre, cantidad, estado)]

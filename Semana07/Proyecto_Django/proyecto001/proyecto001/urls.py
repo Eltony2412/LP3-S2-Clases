@@ -15,7 +15,13 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from miapp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('saludo', views.saludo, name = "saludo"),
+    path('', views.index, name = "index"),
+    path('inicio', views.index, name = "inicio"),
+    path('rango', views.rango, name = "rango"),
+    path('rango2/<int:a>/<int:b>', views.rango2, name = "rango2",),
 ]
